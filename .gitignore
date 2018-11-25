@@ -1,0 +1,8 @@
+# Created by https://www.gitignore.io/api/flutter
+# Edit at https://www.gitignore.io/?templates=flutter
+
+### Flutter ###
+.flutter-plugins
+
+# End of https://www.gitignore.io/api/flutter
+expend_log/android/app/google-services.json
